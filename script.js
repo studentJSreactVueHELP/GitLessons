@@ -3,3 +3,7 @@ function sayHi() {
 }
 
 say();
+
+Med();
+
+Bed();
