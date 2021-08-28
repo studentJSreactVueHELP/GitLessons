@@ -7,3 +7,4 @@ say();
 Med();
 
 Bed();
+console.log('hi,man!');
