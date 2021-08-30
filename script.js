@@ -1,10 +1,3 @@
-function sayHi() {
+function say() {
    console.log("hello!!");
 }
-
-say();
-
-Med();
-
-Bed();
-console.log('hi,man!');
