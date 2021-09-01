@@ -1,2 +1,2 @@
 # GitLessons
-Create publick repo for learn git, using JS
+Create public repo for learn git, using JS
