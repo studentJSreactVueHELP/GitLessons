@@ -3,7 +3,6 @@ function sayHi() {
 }
 
 say();
-<<<<<<< ours
 
 Med();
 
@@ -13,6 +12,4 @@ console.log('hi,man!');
 function revert() {
    console.log(`revert otmena`);
 }
-=======
 Fed();
->>>>>>> theirs
